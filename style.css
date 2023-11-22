@@ -1,0 +1,14 @@
+body {
+    text-align: center !important;
+    background-color: crimson !important;
+}
+
+.explanation {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+}
